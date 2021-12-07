@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**yusifahmadov/yusifahmadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer at Item Academy in Baku🇦🇿
 
 Here are some ideas to get you started:
 
