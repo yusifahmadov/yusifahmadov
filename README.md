@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusifahmadov&show_icons=true&locale=en" alt="yusifahmadov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifahmadov&" alt="yusifahmadov" /></p>
+
+![snake gif](https://github.com/yusifahmadov/yusifahmadov/blob/output/github-contribution-grid-snake.gif)
