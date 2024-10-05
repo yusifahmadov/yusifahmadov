@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yusif Ahmadov</h1>
 <h3 align="center">A passionate software engineer from Azerbaijan</h3>
 
-- 💬 Ask me about **dart, flutter, algorithms**
-
-- 📫 How to reach me **yusifakhmad@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2K7aByp566oyDRKmsbkTpuNBm7B1AkM/view?usp=sharing](https://drive.google.com/file/d/1R2K7aByp566oyDRKmsbkTpuNBm7B1AkM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
