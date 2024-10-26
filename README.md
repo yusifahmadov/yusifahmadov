@@ -10,6 +10,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=yusifahmadov&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=yusifahmadov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+![snake gif](https://github.com/yusifahmadov/yusifahmadov/blob/output/github-contribution-grid-snake.gif)
