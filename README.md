@@ -12,3 +12,7 @@
 
 
 ![snake gif](https://github.com/yusifahmadov/yusifahmadov/blob/output/github-contribution-grid-snake.gif)
+
+
+---
+[![](https://visitor-badge.laobi.icu/badge?page_id=yusifahmadov.yusifahmadov)](#)
